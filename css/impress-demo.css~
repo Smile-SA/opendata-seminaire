@@ -503,10 +503,17 @@ body     { pointer-events: none; }
     right: 5px;
     top: 15px;
 }
+h1, h2, h3{
+  color:#E45602;
+}
+
 h1{
   color:#E45602;
   font-size:250%;
   margin: 20px auto;
   text-align: center;
+}
+.inline{
+  display:inline;
 }
 

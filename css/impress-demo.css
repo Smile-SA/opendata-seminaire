@@ -503,6 +503,11 @@ body     { pointer-events: none; }
     right: 5px;
     top: 15px;
 }
+h1, h2, h3{
+  color:#E45602;
+  text-align:center;
+}
+
 h1{
   color:#E45602;
   font-size:250%;

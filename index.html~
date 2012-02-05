@@ -103,7 +103,7 @@
     </div>
 
     <!-- Slide 9 -->
-    <div class="step" data-x="7000" data-y="1000" data-rotate="180" data-scale="3">
+    <div class="step" data-x="7000" data-y="0" data-rotate="180" data-scale="3">
 	  <center>
 	    <img src="./images/smiley.jpg" class="inline" width="50px"/>
 	  </center>
@@ -185,14 +185,14 @@
 	  </ul>
     </div>
 
-    <!-- Slide 15 -->
+    <!-- Slide 16 -->
     <div class="step" data-x="5000" data-y="-1000" data-rotate="180" data-scale="4">
 	  <center>
 	    <img src="./images/api.png" class="inline"/>
 	  </center>
     </div>
 
-    <!-- Slide 16 -->
+    <!-- Slide 17 -->
     <div class="step" data-x="4900" data-y="-1000" data-rotate="180" data-scale="1" data-z="-10000">
 	<ul>
 	    <li>Pour les développeurs</li>
@@ -203,15 +203,15 @@
 	  </ul>
     </div>
 
-  <!-- Slide 17 -->
+  <!-- Slide 18 -->
     <div class="step" data-x="5000" data-y="-2500" data-rotate="180" data-scale="4">
 	  <center>
 	    <img src="./images/social.png" class="inline"/>
 	  </center>
     </div>
 
-    <!-- Slide 18 -->
-    <div class="step" data-x="5000" data-y="-2500" data-rotate="180" data-scale="1" data-z="-10000">
+    <!-- Slide 19 -->
+    <div class="step" data-x="4900" data-y="-2500" data-rotate="180" data-scale="1" data-z="-10000">
 	<ul>
 	    <li>Créer une communauté autour des données</li>
 	    <li>
@@ -229,6 +229,40 @@
 	      </ul>
 	    </li>
 	  </ul>
+    </div>
+
+    <!-- Slide 20 -->
+    <div class="step" data-x="8000" data-y="-3000" data-rotate="180" data-scale="4">
+	 <h1>Faisons un petit tour d'horizon des solutions ...</h1>
+    </div>
+
+    <!-- Slide 21 -->
+    <div class="step" data-x="-5000" data-y="-5000" data-rotate="270" data-scale="4">
+	 <h2><img src="./images/ckan.png" class="inline"/></h2>
+	 <center>
+	    <img src="./images/ckan-eu.png" class="inline" width="600px"/>
+	  </center>
+    </div>
+
+    <!-- Slide 22 -->
+    <div class="step" data-x="2000" data-y="5000" data-rotate="90" data-scale="4">
+	 <h2><img src="./images/socrata.gif" class="inline" width="100px"/></h2>
+	 <center>
+	    <img src="./images/socrata.png" class="inline" width="1000px"/>
+	  </center>
+    </div>
+
+    <!-- Slide 23 -->
+    <div class="step" data-x="-1500" data-y="-5000" data-rotate="270" data-scale="4">
+	 <h2><img src="./images/typo3.jpg" class="inline" width="200px"/></h2>
+	 <center>
+	    <img src="./images/NOD.png" class="inline" width="1000px"/>
+	  </center>
+    </div>
+
+    <!-- Slide 24 -->
+    <div class="step" data-x="2000" data-y="5000" data-rotate="90" data-scale="4">
+	 <h2>Il y a d'autres initiatives ...</h2>
     </div>
     
     <div id="overview" class="step" data-x="3000" data-y="1500" data-scale="10">
